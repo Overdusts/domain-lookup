@@ -1,0 +1,11 @@
+# Domain Finder Requirements
+# 
+# Note: tkinter is usually included with Python installations
+# If tkinter is not available, install it using your system package manager:
+#
+# Ubuntu/Debian: sudo apt-get install python3-tk
+# Fedora: sudo dnf install python3-tkinter
+# macOS: tkinter comes with Python from python.org
+# Windows: tkinter comes with Python installer
+
+# No additional pip packages required for basic functionality
